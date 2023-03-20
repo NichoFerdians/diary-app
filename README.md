@@ -25,6 +25,6 @@ RESTful API menggunakan gin, gorm, jwt dan docker.
 
 ### Resource
 
-  [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/9005645-afd717d5-58a2-49ea-a7de-12d2f7507f8d?action=collection%2Ffork&collection-url=entityId%3D9005645-afd717d5-58a2-49ea-a7de-12d2f7507f8d%26entityType%3Dcollection%26workspaceId%3D52de5606-528f-43b9-84fb-f9497ac41357)
-- [Documentations](https://documenter.getpostman.com/view/9005645/2s93K1oz6X)
+- [Postman Collection](https://www.getpostman.com/collections/167ecb7ec05f4b99c75c)
+- [Documentations](https://documenter.getpostman.com/view/9005645/UVeCQofy)
 - DDL File => di file ./ddl.sql
